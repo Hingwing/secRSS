@@ -73,8 +73,8 @@
         },
         "mail": {
             "enabled": true,
-            "secrets": "ayzaawdaoppmbcjc",
-            "secrets_receiver": "545146955@qq.com",
+            "secrets": "tjnsvtnzfvlsbfbb",
+            "secrets_receiver": "sherlock@mylqr.cn",
             "address": "firmianay@163.com",
             "server": "smtp.163.com",
             "from": "security-bot <firmianay@163.com>",
